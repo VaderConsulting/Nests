@@ -27,7 +27,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/Nests`.
+Working copy from my Historical Dev folder `VB/Old/Nests`.
 Company names in project files: Chips, Bits and Bytes. VersionLegalCopyright: (c) 1998 D. Robinson.
 
 ## License
